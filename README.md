@@ -1,7 +1,6 @@
 ### Olá me chamo Gabriel Alves!👋
 ##
 -📚 Estou cursando ciencia da computação! ...
-
 -⚡ Estou estágiando na empresa BNDES!...
 ##
 <!--
