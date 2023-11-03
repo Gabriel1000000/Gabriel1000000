@@ -1,6 +1,7 @@
 ### Olá me chamo Gabriel Alves!👋
 ##
 -📚 Estou cursando ciencia da computação! ...
+-⚡ Estou estágiando na empresa BNDES!...
 ##
 <!--
 *Gabriel1000000/Gabriel1000000* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
