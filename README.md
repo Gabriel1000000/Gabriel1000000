@@ -1,6 +1,6 @@
 # Veja os projetos que criei!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courier&color=886ce4&size=35&center=true&vCenter=true&width=1350&+lines=Pleasure,+My+name+is+Gabriel+Alves!;I+Have+24+years+old!;I'm+from+Brazil,+RJ!;Study+computer+science+at+the+university’s+unicariotic+center+;Welcome!+:%29&)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courier&color=FFFF&size=35&center=true&vCenter=true&width=1350&+lines=Pleasure,+My+name+is+Gabriel+Alves!;I+Have+24+years+old!;I'm+from+Brazil,+RJ!;Study+computer+science+at+the+university’s+unicariotic+center+;Welcome!+:%29&)](https://git.io/typing-svg)
 ##
 -📚 Estou cursando ciencia da computação!...
 
