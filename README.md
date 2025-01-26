@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courier&color=FFFF&size=35&center=true&vCenter=true&width=1350&+lines=Pleasure,+My+name+is+Gabriel+Alves!;I+Have+24+years+old!;I'm+from+Brazil,+RJ!;Study+computer+science+at+the+university’s+unicariotic+center+;Welcome!+:%29&)](https://git.io/typing-svg)
 ##
--📚 Estou cursando ciencia da computação!...
+-📚 Graduado em Ciências da Computação pela Centro Universitário Unicarioca!
 
--⚡ Estou estágiando na empresa BNDES!...
+-⚡ Estagiei na empresa Banco Nacional de Desenvolvimento Econômico e Social (BNDES) 1 ano e 4 mês!
 ##
 <!--
 *Gabriel1000000/Gabriel1000000* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
