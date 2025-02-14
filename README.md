@@ -20,16 +20,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <a href="https://github.com/Gabriel1000000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel1000000&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel1000000&layout=compact&langs_count=7&theme=highcontrast"/>
-    </div>
+  <div align="center">
+<!--    <a href="https://github.com/Gabriel1000000" text-decoration: none> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel1000000&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel1000000&layout=compact&langs_count=7&theme=highcontrast"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel1000000&show_icons=true&theme=highcontrast"/>
+  </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gariel-Js" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gariel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gariel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gariel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a href="https://github.com/Gabriel1000000/app-sabor-express"><img align="center" alt="Gariel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+   <img align="center" alt="Gariel-Js" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Gariel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+   <img align="center" alt="Gariel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Gariel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <a href="https://github.com/Gabriel1000000/app-sabor-express" text-decoration: none>
+    <img align="center" alt="Gariel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   </a>
+ </div>
+
+ <div align="center">
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gabriel_varella1327)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gabriel.alves.varella@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gabriel-alves-varella-da-costa-07883a235)
+
 </div>
+
+
+
+
 
