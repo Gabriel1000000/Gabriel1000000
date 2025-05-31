@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <!--https://github.com/Gabriel1000000-->
 ![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel1000000&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel1000000&layout=compact&langs_count=7&theme=highcontrast)
-![Outra estatística](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel1000000&show_icons=true&theme=highcontrast)
 <!--
   <div style="display: inline_block">
    <img align="center" alt="Gariel-Js" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,6 +46,7 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Gabriel1000000/app-sabor-express)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  
+![Outra estatística](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel1000000&show_icons=true&theme=highcontrast)
 ## Ferramentas
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
