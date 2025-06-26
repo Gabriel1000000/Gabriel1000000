@@ -1,72 +1,80 @@
-# Veja os projetos que criei!
+# 👨‍💻 Gabriel Alves Varella da Costa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Courier&color=FFFF&size=35&center=true&vCenter=true&width=1350&+lines=Pleasure,+My+name+is+Gabriel+Alves!;I+Have+24+years+old!;I'm+from+Brazil,+RJ!;Study+computer+science+at+the+university’s+unicariotic+center+;Welcome!+:%29&)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffff&width=1000&lines=Desenvolvedor+Full+Stack+apaixonado+por+tecnologia!;Experiência+em+Back-end%2C+Front-end+e+Análise+de+Dados.;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-- Sou graduado em Ciência da computação pela Centro Universitário Unicarioca, buscando me desenvolver cada vez mais e atrás de desafios e oportunidades.
+🎓 Formado em Ciência da Computação pelo Centro Universitário UniCarioca  
+💼 Ex-estagiário no **BNDES** (1 ano e 4 meses) e **Carioca Júnior**  
+🚀 Em constante aprendizado e evolução nas áreas de desenvolvimento e análise de dados
 
-- Estagiei na empresa Banco Nacional de Desenvolvimento Econômico e Social (BNDES) 1 ano e 4 mês!
+---
 
-<!--
-*Gabriel1000000/Gabriel1000000* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✨ Sobre Mim
 
-Here are some ideas to get you started:
+Sou desenvolvedor com sólida base em lógica de programação, automação de processos e construção de APIs REST. Durante minha trajetória no **BNDES**, atuei no desenvolvimento e manutenção de bots em **Python** e **Node.js**, criação de sistemas internos com **Java** e **Spring Boot**, além de painéis automatizados com **Power BI**.  
+Valorizo **tecnologias que resolvem problemas reais**, otimização de processos e a escrita de código limpo e reutilizável.
 
-- 🔭 I’m currently working on ...
- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-##  Estatísticas
-<!--https://github.com/Gabriel1000000-->
-![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel1000000&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel1000000&layout=compact&langs_count=7&theme=highcontrast)
-<!--
-  <div style="display: inline_block">
-   <img align="center" alt="Gariel-Js" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Gariel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Gariel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Gariel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <a href="https://github.com/Gabriel1000000/app-sabor-express" text-decoration: none>
-    <img align="center" alt="Gariel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   </a>
- </div><br/>
--->
-## Habilidades
+## 🛠️ Tecnologias e Ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Linguagens & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://github.com/Gabriel1000000/app-sabor-express)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- 
-![Outra estatística](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel1000000&show_icons=true&theme=highcontrast)
-## Ferramentas
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Banco de Dados & BI**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0d6efd?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Ferramentas**
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
- 
-## Vale Comigo
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gabriel_varella1327)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gabriel.alves.varella@gmail.com)
+---
+
+## 📌 Projetos em Destaque
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel1000000&repo=API-Rest-Aplicacao-Med.Voll&theme=highcontrast)](https://github.com/Gabriel1000000/API-Rest-Aplicacao-Med.Voll)  
+_API REST para agendamento de consultas médicas utilizando Java, Spring Boot e PostgreSQL._
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel1000000&repo=Meu-portfolio&theme=highcontrast)](https://github.com/Gabriel1000000/Meu-portfolio)  
+_Meu portfólio online com projetos, experiências e contatos._
+
+---
+
+## 📊 GitHub Stats
+
+![Gabriel GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel1000000&show_icons=true&theme=highcontrast&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel1000000&layout=compact&theme=highcontrast)
+
+---
+
+## 🧠 Certificações Recentes
+
+- Spring Boot 3: Desenvolva uma API REST em Java – Alura  
+- Fundamentos do Python e APIs com Flask – Alura  
+- Power BI: DAX, Power Query e Report Builder – Alura  
+- Lógica de Programação com JavaScript – Alura  
+- HTML5 e CSS3 (módulos 1 a 3) – Curso em Vídeo  
+- JavaScript para Web – Curso em Vídeo
+
+---
+
+## 🤝 Vamos Conectar?
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gabriel-alves-varella-da-costa-07883a235)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=for-the-badge&logo=githubpages&logoColor=white)](https://gabriel1000000.github.io/Meu-portfolio/)
+[![Email](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:gabriel.alves.varella@gmail.com)
+[![Perfil DIO](https://img.shields.io/badge/-Perfil%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/gabriel_varella1327)
 
-## Projetos Favoritos
+---
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel1000000&repo=Meu-portfolio&bg_color=000&border_color=30A3DC&show_icons=true&theme=highcontrast)](https://github.com/Gabriel1000000/Meu-portfolio)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel1000000&repo=API-Rest-Aplicacao-Med.Voll&bg_color=000&border_color=30A3DC&show_icons=true&theme=highcontrast)](https://github.com/Gabriel1000000/API-Rest-Aplicacao-Med.Voll)
-
-
-
-
-
-
-
+🧩 **Obrigado por visitar!** Estou sempre aberto a novos desafios e oportunidades. Explore meus repositórios e fique à vontade para entrar em contato!
