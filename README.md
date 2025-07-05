@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Alves Varella da Costa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ffff&width=1000&lines=Desenvolvedor+Full+Stack+apaixonado+por+tecnologia!;Experiência+em+Back-end%2C+Front-end+e+Análise+de+Dados.;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=30A3DC&width=1000&lines=Desenvolvedor+Full+Stack+apaixonado+por+tecnologia!;Experiência+em+Back-end%2C+Front-end+e+Análise+de+Dados.;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
 🎓 Formado em Ciência da Computação pelo Centro Universitário UniCarioca  
 💼 Ex-estagiário no **BNDES** (1 ano e 4 meses) e **Carioca Júnior**  
