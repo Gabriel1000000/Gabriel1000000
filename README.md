@@ -45,6 +45,9 @@ Valorizo **tecnologias que resolvem problemas reais**, otimização de processos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel1000000&repo=API-Rest-Aplicacao-Med.Voll&theme=highcontrast)](https://github.com/Gabriel1000000/API-Rest-Aplicacao-Med.Voll)  
 _API REST para agendamento de consultas médicas utilizando Java, Spring Boot e PostgreSQL._
 
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel1000000&repo=email-sender-rpa&theme=highcontrast)](https://github.com/Gabriel1000000/email-sender-rpa)  
+_Automação de envio de e-mail._
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Gabriel1000000&repo=Meu-portfolio&theme=highcontrast)](https://github.com/Gabriel1000000/Meu-portfolio)  
 _Meu portfólio online com projetos, experiências e contatos._
 
